@@ -11,7 +11,7 @@ Go into the <a href="wraps/">wraps folder</a> and right click and choose save as
 To preview the wraps, you need to load them onto a USB drive:
 
 1. Create a folder called `Wraps` at the root level of the USB drive.
-2. Place your wrap images inside the `Wraps` folder.
+2. Place your wrap images inside the `Wraps` folder. Wrap images must have no spaces, underscores or other special characters.
 3. Ensure that the USB drive is formatted as one of the following:
     + exFAT
     + FAT 32 (for Windows)
