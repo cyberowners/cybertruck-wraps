@@ -31,7 +31,7 @@ To apply a wrap image to your Cybertruck visualization, follow these steps:
 4. Select a wrap image from the list.
 5. Tap on the wrap image to apply it to the car visualization.
 
-<a href="wraps/Lava_cracks.png"><img src="wraps/Lava_cracks.png?raw=true"/></a>
+<a href="wraps/LavaCracks.png"><img src="wraps/LavaCracks.png?raw=true"/></a>
 
 ## Step 4: Purchase the wrap you love!
 
