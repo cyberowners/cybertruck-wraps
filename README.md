@@ -4,9 +4,9 @@ This is a collection of files for real wraps you can purchase at <a href="https:
 
 ## Step 1: Download the image(s)
 
-Go into the <a href="wraps/">wraps folder</a> and right click and choose save as/download linked file as
+Go into the <a href="wraps/">wraps folder</a> here and right click the image name, and choose save as/download linked file as
 
-## Step 2: Copy the images onto a USB Drive
+## Step 2: Copy the images onto a USB Drive. Do not change the image filenames.
 
 To preview the wraps, you need to load them onto a USB drive:
 
